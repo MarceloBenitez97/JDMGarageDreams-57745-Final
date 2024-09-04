@@ -3,7 +3,7 @@
         "id": "auto-1",
         "titulo": "Nissan 350z Z33",
         "precio": 50000,
-        "img": "../img/350z.jpg"  
+        "img": "./img/350z.jpg"  
     },
     {   
         "id": "auto-2",
