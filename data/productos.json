@@ -1,0 +1,74 @@
+[
+    {   
+        "id": "auto-1",
+        "titulo": "Nissan 350z Z33",
+        "precio": 50000,
+        "img": "../img/350z.jpg"  
+    },
+    {   
+        "id": "auto-2",
+        "titulo": "Honda Civic Type R", 
+        "precio": 15000,
+        "img": "./img/honda-civic-destacados.jpg"   
+    },
+    {   
+        "id": "auto-3",
+        "titulo": "Toyota Supra MK4",
+        "precio": 150000,
+        "img": "./img/supra2.jpg"  
+    },
+    {   
+        "id": "auto-4",
+        "titulo": "Nissan Skyline GT-R R34",
+        "precio": 200000,
+        "img": "./img/skyline-index.jpg"  
+    },
+    {   
+        "id": "auto-5",
+        "titulo": "Subaru Impreza 22B STI", 
+        "precio": 500000,
+        "img": "./img/subaru-sti-destacados.jpg"   
+    },
+    {   
+        "id": "auto-6",
+        "titulo": "Mitsubishi Lancer Evo IX",
+        "precio": 32000,
+        "img": "./img/lancer.jpg"  
+    },
+    {   
+        "id": "auto-7",
+        "titulo": "Nissan Skyline GT-R Hakosuka",
+        "precio": 240000,
+        "img": "./img/nissan-hakosuka.jpg"  
+    },
+    {   
+        "id": "auto-8",
+        "titulo": "Mazda RX-7 Spirit-R" , 
+        "precio": 100000,
+        "img": "./img/rx7-catalogo.jpg"   
+    },
+    {   
+        "id": "auto-9",
+        "titulo": "Lexus LC 500 Luxury",
+        "precio": 140000,
+        "img": "./img/lexus-lc500.jpg"  
+    },
+    {   
+        "id": "auto-10",
+        "titulo": "Toyota Supra MK4",
+        "precio": 300000,
+        "img": "./img/supra3.jpg"  
+    },
+    {   
+        "id": "auto-11",
+        "titulo": "Subaru WRX STI",
+        "precio": 40000,
+        "img": "./img/subaru-gris.jpg"  
+    },
+    {   
+        "id": "auto-12",
+        "titulo": "Toyota MR2",
+        "precio": 20000,
+        "img": "./img/toyota-mr2-catalogo.jpg"  
+    }
+]
